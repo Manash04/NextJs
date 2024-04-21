@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by experts.",
+        "price": 79.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Bass Guitar Basics",
+        "slug": "bass-guitar-basics",
+        "description": "Master the fundamentals of playing bass guitar and lay a solid foundation.",
+        "price": 89.99,
+        "instructor": "Michael Johnson",
+        "isFeatured": true,
+        "image": "/courses/bass.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Drums 101",
+        "slug": "drums-101",
+        "description": "Get started with drumming and learn essential techniques to groove like a pro.",
+        "price": 109.99,
+        "instructor": "Sarah Davis",
+        "isFeatured": false,
+        "image": "/courses/drums.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Violin Mastery",
+        "slug": "violin-mastery",
+        "description": "Dive deep into violin playing and unlock the secrets of virtuosity.",
+        "price": 129.99,
+        "instructor": "David Wilson",
+        "isFeatured": true,
+        "image": "/courses/violin.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Saxophone Essentials",
+        "slug": "saxophone-essentials",
+        "description": "Learn the essential techniques and theory behind saxophone playing.",
+        "price": 94.99,
+        "instructor": "Emily Brown",
+        "isFeatured": false,
+        "image": "/courses/saxophone.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Harmonica Basics",
+        "slug": "harmonica-basics",
+        "description": "Start your journey with the harmonica and explore its expressive capabilities.",
+        "price": 69.99,
+        "instructor": "Robert Green",
+        "isFeatured": true,
+        "image": "/courses/harmonica.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Trumpet Fundamentals",
+        "slug": "trumpet-fundamentals",
+        "description": "Master the basic techniques of playing the trumpet and build a strong foundation.",
+        "price": 109.99,
+        "instructor": "Jessica Lee",
+        "isFeatured": false,
+        "image": "/courses/trumpet.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Ukulele Crash Course",
+        "slug": "ukulele-crash-course",
+        "description": "Get started with the ukulele and learn popular songs in no time.",
+        "price": 59.99,
+        "instructor": "Kevin Martinez",
+        "isFeatured": true,
+        "image": "/courses/ukulele.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Songwriting Workshop",
+        "slug": "songwriting-workshop",
+        "description": "Unlock your creativity and learn to craft compelling songs from scratch.",
+        "price": 149.99,
+        "instructor": "Laura Adams",
+        "isFeatured": false,
+        "image": "/courses/songwriting.jpg"
+      }
+    ]
+  }
+  
